@@ -29,7 +29,7 @@ sections:
           company_logo:
           location: London
           date_start: '2021-05-01'
-          date_end: ''
+          date_end: '2021-08-01'
           description: |2-
               Responsibilities include:
 
