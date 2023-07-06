@@ -1,6 +1,5 @@
 ---
-title: Elisa Militaru
-role: "PhD Student "
+avatar_filename: 357a05c8-e575-4847-8a1a-67eec48662a3_1_201_a.jpeg
 bio: ""
 interests:
   - Geographical Psychology
@@ -8,18 +7,6 @@ interests:
   - Personality
   - Places
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -29,25 +16,30 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+  - display:
+      header: false
+    link: https://twitter.com/ElisaMilitaru
+    label: Twitter
+    icon_pack: fab
+    icon: twitter
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Cambridge
+    url: https://twitter.com/ElisaMilitaru
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: "PhD in Psychology "
+      institution: University of Cambridge
+    - course: "MPhil in Psychology "
+      institution: University of Cambridge
+    - course: "BSc in Psychology "
+      institution: King's College London
 superuser: true
 status:
   icon: ☕️
 last_name: Wu
+role: "PhD Student "
 highlight_name: true
+title: Elisa Militaru
 first_name: Alice
 email: ""
 ---
