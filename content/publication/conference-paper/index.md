@@ -46,7 +46,7 @@ url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-doi: ""
+doi: 10.1111/jopy.12822
 ---
 
 {{% callout note %}}
