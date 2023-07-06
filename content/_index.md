@@ -26,7 +26,7 @@ sections:
         - title: Social Science Researcher
           company: Cabinet Office
           company_url: ''
-          company_logo: org-gc
+          company_logo:
           location: London
           date_start: '2021-05-01'
           date_end: ''
