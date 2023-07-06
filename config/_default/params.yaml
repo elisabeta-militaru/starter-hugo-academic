@@ -8,7 +8,7 @@
 appearance:
   theme_day: ocean
   theme_night: ocean
-  font: Montserrat
+  font: Merriweather
   font_size: L
 
 # SEO
