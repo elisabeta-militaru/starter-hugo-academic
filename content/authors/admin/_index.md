@@ -4,7 +4,6 @@ bio: ""
 interests:
   - Geographical Psychology
   - Psychology of Places
-  - Nostalgia
   - Personality
 social:
   - display:
@@ -53,5 +52,6 @@ title: Elisa Militaru
 first_name: Alice
 email: ""
 ---
-Elisa Militaru is a PhD student in geographical psychology at the University of Cambridge
+Elisa Militaru is a PhD student in geographical psychology at the University of Cambridge. Her research focuses on how places can influence emotions, behaviours and personality. She is particularly interested in how the connections we form to specific places, such as nostalgia or place attachment, can improve well-being. 
+
 {style="text-align: justify;"}
