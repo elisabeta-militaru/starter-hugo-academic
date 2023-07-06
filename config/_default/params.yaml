@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: earth
-  theme_night: earth
+  theme_day: coffee
+  theme_night: coffee
   font: futuristic
   font_size: L
 
