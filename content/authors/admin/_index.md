@@ -27,6 +27,11 @@ social:
     link: https://www.psd.psychol.cam.ac.uk
     icon_pack: far
     icon: house
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?user=Xn0uev8AAAAJ&hl=en
+    icon_pack: far
+    icon: google-scholar
 organizations:
   - name: University of Cambridge
     url: https://twitter.com/ElisaMilitaru
