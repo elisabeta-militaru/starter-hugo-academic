@@ -35,17 +35,12 @@ image:
   focal_point: ""
   preview_only: false
 summary: ""
-url_source: https://www.repository.cam.ac.uk/bitstreams/bc602f46-bf30-44d5-b772-69ec1d7b0592/download
 publication: Journal of Personality
 featured: true
 date: 2023-07-06T17:00:22.325Z
 publishDate: 2017-01-01T00:00:00.000Z
 doi: 10.1111/jopy.12822
 ---
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
 https://api.repository.cam.ac.uk/server/api/core/bitstreams/bc602f46-bf30-44d5-b772-69ec1d7b0592/content
 
-<https://www.repository.cam.ac.uk/bitstreams/bc602f46-bf30-44d5-b772-69ec1d7b0592/download>
