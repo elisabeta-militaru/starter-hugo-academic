@@ -35,17 +35,11 @@ image:
   focal_point: ""
   preview_only: false
 summary: ""
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
-url_project: ""
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
+url_source: https://www.repository.cam.ac.uk/bitstreams/bc602f46-bf30-44d5-b772-69ec1d7b0592/download
 publication: Journal of Personality
 featured: true
 date: 2023-07-06T17:00:22.325Z
-url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
-url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: 10.1111/jopy.12822
 ---
 {{% callout note %}}
