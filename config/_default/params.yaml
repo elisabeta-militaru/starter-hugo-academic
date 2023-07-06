@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: forest
-  theme_night: forest
-  font: Calendas Plus
+  theme_day: earth
+  theme_night: earth
+  font: traditional serif
   font_size: L
 
 # SEO
