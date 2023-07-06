@@ -8,7 +8,7 @@
 appearance:
   theme_day: ocean
   theme_night: ocean
-  font: futuristic
+  font: hacker style
   font_size: L
 
 # SEO
