@@ -11,7 +11,7 @@ sections:
       image:
         filename: hero-academic.png
       cta:
-        label: '**Don't Click**'
+        label: '**Get Started**'
         url: https://wowchemy.com/templates/
       cta_alt:
         label: Ask a question
