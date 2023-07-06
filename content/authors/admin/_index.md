@@ -7,12 +7,9 @@ interests:
   - Personality
   - Places
 social:
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/elisabeta-militaru-07a182159/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
