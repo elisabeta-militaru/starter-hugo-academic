@@ -36,6 +36,7 @@ image:
   preview_only: false
 summary: ""
 publication: Journal of Personality
+featured: true
 date: 2023-07-06T17:00:22.325Z
 publishDate: 2017-01-01T00:00:00.000Z
 doi: 10.1111/jopy.12822
