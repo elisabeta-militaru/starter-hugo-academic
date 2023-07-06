@@ -1,5 +1,5 @@
 ---
-avatar_filename: avatar.jpeg
+avatar_filename: 357a05c8-e575-4847-8a1a-67eec48662a3_1_201_a.jpeg
 bio: ""
 interests:
   - Geographical Psychology
