@@ -25,11 +25,11 @@ sections:
       items:
         - title: Social Science Researcher
           company: Cabinet Office
-          company_url: 'https://cambridgegrandchallenges.cshss.cam.ac.uk/case-study-elisabeta-militarus-internship-at-the-cabinet-office/'
+          company_url: ''
           company_logo: org-co
           location: London
           date_start: '2021-05-01'
-          date_end: '2021-08-01'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
