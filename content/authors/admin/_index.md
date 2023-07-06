@@ -48,7 +48,5 @@ title: Elisa Militaru
 first_name: Alice
 email: ""
 ---
-Elisa Militaru is a PhD student in geographical psychology at the University of Cambridge looking at place nostalgia
-
-Hello!
+Elisa Militaru is a PhD student in geographical psychology at the University of Cambridge
 {style="text-align: justify;"}
