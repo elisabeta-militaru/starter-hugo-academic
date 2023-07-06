@@ -48,7 +48,7 @@ status:
 last_name: Wu
 role: "PhD Student "
 highlight_name: true
-title: Elisa Militaru
+title: Elisabeta Militaru
 first_name: Alice
 email: ""
 ---
