@@ -41,7 +41,7 @@ url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 publication: Journal of Personality
 featured: true
-date: 2013-07-01T00:00:00Z
+date: 2023-07-06T17:00:22.325Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
