@@ -3,9 +3,9 @@ avatar_filename: avatar.jpeg
 bio: ""
 interests:
   - Geographical Psychology
-  - Emotions
+  - Psychology of Places
+  - Nostalgia
   - Personality
-  - Places
 social:
   - icon: linkedin
     icon_pack: fab
