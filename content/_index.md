@@ -70,7 +70,7 @@ sections:
       title: Talks
       filters:
         folders:
-          - event
+          - post
     design:
       columns: '2'
       view: compact
