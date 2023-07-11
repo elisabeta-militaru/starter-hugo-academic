@@ -70,7 +70,6 @@ related:
 security:
   _merge: deep
 sitemap:
-/sitemap.xml
   _merge: deep
 minify:
   _merge: deep
