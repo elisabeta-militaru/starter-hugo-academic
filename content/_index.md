@@ -53,7 +53,7 @@ sections:
           description: |2-
               * Seminars on Individual Differences
               * Seminars on Advanced Research Methods
-        - title: Co-founder Research and Product 
+        - title: Co-founder, Head of Research and Product 
           company: Advance Careers
           company_url: ''
           company_logo: 
@@ -61,8 +61,9 @@ sections:
           date_start: '2017-03-01'
           date_end: '2021-08-01'
           description: |2-
-              * Headed the Product team
               * Built cognitive-behavioural online games for recruitment
+              * UXR
+              * Data Science
       columns: '2'
   - block: markdown
     content:
