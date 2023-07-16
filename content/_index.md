@@ -53,7 +53,7 @@ sections:
           description: |2-
               * Seminars on Individual Differences
               * Seminars on Advanced Research Methods
-        - title: Co-founder: Research and Product 
+        - title: Co-founder Research and Product 
           company: Advance Careers
           company_url: ''
           company_logo: 
