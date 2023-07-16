@@ -40,7 +40,9 @@ sections:
           location: Cambridge
           date_start: '2020-01-01'
           date_end: ''
-          description: Supervising dissertation students, teaching Social and Geographical Psychology.
+          description: |2-
+                    Supervising dissertation students.
+                    Teaching Social and Geographical Psychology.
         - title: Graduate Tutor
           company: University of London
           company_url: ''
@@ -48,7 +50,9 @@ sections:
           location: London
           date_start: '2023-03-01'
           date_end: ''
-          description: Seminars on Individual Differences and Research Methods.
+          description: |2-
+                      Delivering seminars on Individual Differences and Research Methods.
+                      Delivering seminars on Advanced Research Methods.
         - title: Co-founder: Research and Product 
           company: Advance Careers
           company_url: ''
@@ -56,9 +60,7 @@ sections:
           location: London
           date_start: '2017-03-01'
           date_end: '2021-08-01'
-          description: |2-Built cognitive-behavioural online games
-    to be integrated into the recruitment process.
-    design:
+          description: Headed the Product team building cognitive-behavioural online games
       columns: '2'
   - block: markdown
     content:
