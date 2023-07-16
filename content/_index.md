@@ -48,7 +48,7 @@ sections:
           location: London
           date_start: '2023-03-01'
           date_end: ''
-          description: |- Delivering seminars on Individual Differences and Research Methods.
+          description: Seminars on Individual Differences and Research Methods.
         - title: Co-founder: Research and Product 
           company: Advance Careers
           company_url: ''
