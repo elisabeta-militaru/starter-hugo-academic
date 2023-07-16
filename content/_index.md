@@ -53,6 +53,16 @@ sections:
           description: |2-
               * Seminars on Individual Differences
               * Seminars on Advanced Research Methods
+        - title: Co-founder: Research and Product 
+          company: Advance Careers
+          company_url: ''
+          company_logo: 
+          location: London
+          date_start: '2017-03-01'
+          date_end: '2021-08-01'
+          description: |2-
+              * Headed the Product team
+              * Built cognitive-behavioural online games for recruitment
       columns: '2'
   - block: markdown
     content:
