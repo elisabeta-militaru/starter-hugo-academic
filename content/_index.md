@@ -55,7 +55,7 @@ sections:
           company_logo: 
           location: London
           date_start: '2017-03-01'
-          date_end: '2021-03-01'
+          date_end: '2021-08-01'
           description: Built cognitive-behavioural online games aimed to tap onto applicants skills.
     design:
       columns: '2'
