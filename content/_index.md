@@ -56,7 +56,7 @@ sections:
           location: London
           date_start: '2017-03-01'
           date_end: '2021-03-01'
-          description: Using behavioural insights, I oversaw the building of cognitive online games aimed to tap onto applicants skills. 
+          description: I oversaw the building of cognitive-behavioural online games aimed to tap onto applicants skills. 
     design:
       columns: '2'
   - block: markdown
