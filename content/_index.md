@@ -41,8 +41,8 @@ sections:
           date_start: '2020-01-01'
           date_end: ''
           description: |2-
-                    * Supervising dissertation students.
-                    * Teaching Social and Geographical Psychology.
+              * Supervising dissertation students.
+              * Teaching Social and Geographical Psychology.
         - title: Graduate Tutor
           company: University of London
           company_url: ''
