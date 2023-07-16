@@ -64,7 +64,7 @@ sections:
               * Built cognitive-behavioural online games for recruitment
               * UXR
               * Data Science
-      columns: '2'
+      columns: '3'
   - block: markdown
     content:
       title: 
