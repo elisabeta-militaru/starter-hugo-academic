@@ -51,8 +51,8 @@ sections:
           date_start: '2023-03-01'
           date_end: ''
           description: |2-
-                      Delivering seminars on Individual Differences and Research Methods.
-                      Delivering seminars on Advanced Research Methods.
+                  * Delivering seminars on Individual Differences.
+                  * Delivering seminars on Advanced Research Methods.
         - title: Co-founder: Research and Product 
           company: Advance Careers
           company_url: ''
