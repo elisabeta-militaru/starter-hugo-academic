@@ -48,7 +48,15 @@ sections:
           location: London
           date_start: '2023-03-01'
           date_end: ''
-          description: Delivering seminars on Individual Differences and Research Methods.      
+          description: Delivering seminars on Individual Differences and Research Methods.
+       - title: Co-founder: Research & Product 
+          company: Advance Careers
+          company_url: ''
+          company_logo: 
+          location: London
+          date_start: '2017-03-01'
+          date_end: '2021-03-01'
+          description: |2- Built cognitive-behavioural online games aimed to tap onto applicants skills.
     design:
       columns: '2'
   - block: markdown
