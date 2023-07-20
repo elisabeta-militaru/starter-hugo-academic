@@ -19,7 +19,7 @@ marketing:
     org_name: 'University of Cambridge'
     twitter: '@ElisaMilitaru'
   analytics:
-    google_analytics: ''
+    google_analytics: 'UA-64338385-5'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''  
