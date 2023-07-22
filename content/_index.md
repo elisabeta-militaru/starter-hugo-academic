@@ -33,26 +33,6 @@ sections:
           description: |2-
               * Scientific Reports
               * Public Policy
-        - title: Graduate Teaching Assistant
-          company: University of Cambridge
-          company_url: ''
-          company_logo: 
-          location: Cambridge
-          date_start: '2020-01-01'
-          date_end: ''
-          description: |2-
-              * Supervising dissertation students.
-              * Teaching Social and Geographical Psychology.
-        - title: Graduate Tutor
-          company: University of London
-          company_url: ''
-          company_logo: 
-          location: London
-          date_start: '2023-03-01'
-          date_end: ''
-          description: |2-
-              * Seminars on Individual Differences
-              * Seminars on Advanced Research Methods
         - title: Co-founder, Head of Research and Product 
           company: Advance Careers
           company_url: ''
