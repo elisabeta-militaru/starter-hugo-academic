@@ -54,6 +54,6 @@ email: ""
 ---
 Elisa Militaru is a PhD student in geographical psychology at the University of Cambridge. Elisa is passionate about interdisciplinarity, being at the crossroads between psychology, geography and data science. In her research, she uses geographical and computational methods to understand emotions, behaviours and personality. She is particularly interested in the connections we form to specific places, such as place nostalgia or place attachment, and how these connections can improve well-being. 
 
-Elisa worked as a social science researcher at the Cabinet Office, in the Constitution Group Analysis team, where she used social and geographical psychology research to inform public policy the democratic proccesses. Previously, she was part of the Cambridge COVID-19 Taskforce where she helped develop and test interventions. 
+Elisa worked as a social science researcher at the Cabinet Office, in the Constitution Group Analysis team, where she used social and geographical psychology research to inform public policy around democratic proccesses. Previously, she was part of the Cambridge COVID-19 Taskforce where she helped develop and test interventions. 
 
 {style="text-align: justify;"}
